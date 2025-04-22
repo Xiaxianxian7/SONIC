@@ -4,7 +4,7 @@ This is the source code for the SONIC algorithm, which is proposed in the follow
 
 Xian-Xian Xia, Dong Huang, Chen-Min Yang, Chaobo He, Chang-Dong Wang. Simple One-step Multi-view Clustering with Fast Similarity and Cluster Structure Learning. IEEE Signal Processing Letters, 2025.
 
-Run "demo_1.m" to test the SONIC algorithm.
+Run "demo.m" to test the SONIC algorithm.
 
 Further Questions?
 
