@@ -6,7 +6,3 @@ Xian-Xian Xia, Dong Huang, Chen-Min Yang, Chaobo He, Chang-Dong Wang. Simple One
 
 Run "demo.m" to test the SONIC algorithm.
 
-Further Questions?
-
-Don't hesitate to contact me if you have any questions regarding this work.
-Email: huangdonghere at gmail dot com
